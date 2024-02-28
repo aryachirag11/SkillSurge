@@ -35,7 +35,7 @@ const courseContent = [
 ];
 function WhyChooseUs() {
   return (
-    <div>
+    <div className="h-auto min-h-screen">
       <StickyScroll content={courseContent} />
     </div>
   );
