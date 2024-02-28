@@ -19,7 +19,7 @@
       "description": "Advanced algorithms, Data organization, Complexity analysis, Coding exercises",
       "duration": "8 weeks",
       "instructor": "Prof. John Doe",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "https://example.com/dsa-image.jpg"
     },
     {
@@ -41,7 +41,7 @@
       "description": "Basics of cloud architecture, Cloud service models, Cloud deployment models, Hands-on exercises",
       "duration": "4 weeks",
       "instructor": "Dr. Sarah Lee",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "https://example.com/cloud-computing-image.jpg"
     },
     {
@@ -63,7 +63,7 @@
       "description": "Machine learning basics, Neural networks, Natural language processing, AI ethics",
       "duration": "8 weeks",
       "instructor": "Dr. Alex Chen",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "https://example.com/ai-image.jpg"
     },
     {
@@ -74,7 +74,7 @@
       "description": "OS components, Process scheduling, Deadlock prevention, Virtual memory",
       "duration": "5 weeks",
       "instructor": "Prof. Lisa Rodriguez",
-      "isFeatured": true,
+      "isFeatured": false,
       "image": "https://example.com/os-image.jpg"
     }
   ]
