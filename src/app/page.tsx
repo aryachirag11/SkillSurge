@@ -5,6 +5,7 @@ import UpcomingWebinars from "@/components/UpcomingWebinars";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import Testimonials from "@/components/Testimonals";
 import Image from "next/image";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Testimonials />
       <UpcomingWebinars />
       <Instructors />
+      <Footer />
     </main>
   );
 }
