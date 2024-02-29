@@ -47,7 +47,7 @@ const page = () => {
         ></textarea>
         <button
           type="submit"
-          className="px-6 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2
+          className="px-6 py-2 hover:bg-teal-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2
           shadow-[0_0_0_3px_#000000_inset]  bg-transparent border border-black dark:border-white dark:text-white text-black font-bold transform hover:-translate-y-1 transition duration-400
           "
         >

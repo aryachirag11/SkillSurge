@@ -12,7 +12,7 @@ const UpcomingWebinars = () => {
             UPCOMING WEBINARS
           </h2>
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
-            Learn With the Best
+            Unlock Insights, Ignite Curiosity!
           </p>
         </div>
       </div>
