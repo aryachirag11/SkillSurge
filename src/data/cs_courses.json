@@ -9,7 +9,7 @@
       "duration": "6 weeks",
       "instructor": "Dr. Jane Smith",
       "isFeatured": true,
-      "image": "https://example.com/intro-cs-image.jpg"
+      "image": "https://images.unsplash.com/photo-1617240016072-d92174e44171?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "duration": "8 weeks",
       "instructor": "Prof. John Doe",
       "isFeatured": true,
-      "image": "https://example.com/dsa-image.jpg"
+      "image": "https://images.unsplash.com/photo-1642952469120-eed4b65104be?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "duration": "4 weeks",
       "instructor": "Dr. Emily Brown",
       "isFeatured": true,
-      "image": "https://example.com/web-dev-image.jpg"
+      "image": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "duration": "4 weeks",
       "instructor": "Dr. Sarah Lee",
       "isFeatured": true,
-      "image": "https://example.com/cloud-computing-image.jpg"
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "duration": "6 weeks",
       "instructor": "Prof. Mark Johnson",
       "isFeatured": true,
-      "image": "https://example.com/dbms-image.jpg"
+      "image": "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png"
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "duration": "8 weeks",
       "instructor": "Dr. Alex Chen",
       "isFeatured": true,
-      "image": "https://example.com/ai-image.jpg"
+      "image": "https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1-1500x1000.jpg"
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "duration": "5 weeks",
       "instructor": "Prof. Lisa Rodriguez",
       "isFeatured": false,
-      "image": "https://example.com/os-image.jpg"
+      "image": "https://engineeringhulk.com/wp-content/uploads/2022/12/os-main.jpg"
     }
   ]
 }
